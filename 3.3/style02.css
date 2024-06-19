@@ -1,0 +1,14 @@
+
+header {
+	background-color: #745b4a;
+	color: #ffffff;
+	padding: 1rem;
+}
+
+header h1 {
+	margin: 0;
+}
+
+.center-text {
+    text-align: center;
+  }
